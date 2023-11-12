@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.2b4a5cee.css",
-    "main.js": "./static/js/main.f3400b30.js",
-    "static/js/787.c4ab1725.chunk.js": "./static/js/787.c4ab1725.chunk.js",
-    "index.html": "./index.html",
-    "main.2b4a5cee.css.map": "./static/css/main.2b4a5cee.css.map",
-    "main.f3400b30.js.map": "./static/js/main.f3400b30.js.map",
-    "787.c4ab1725.chunk.js.map": "./static/js/787.c4ab1725.chunk.js.map"
+    "main.css": "/Quran/static/css/main.2b4a5cee.css",
+    "main.js": "/Quran/static/js/main.d1cbbc6e.js",
+    "static/js/787.c4ab1725.chunk.js": "/Quran/static/js/787.c4ab1725.chunk.js",
+    "index.html": "/Quran/index.html",
+    "main.2b4a5cee.css.map": "/Quran/static/css/main.2b4a5cee.css.map",
+    "main.d1cbbc6e.js.map": "/Quran/static/js/main.d1cbbc6e.js.map",
+    "787.c4ab1725.chunk.js.map": "/Quran/static/js/787.c4ab1725.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b4a5cee.css",
-    "static/js/main.f3400b30.js"
+    "static/js/main.d1cbbc6e.js"
   ]
 }
